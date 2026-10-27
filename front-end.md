@@ -1,15 +1,4 @@
-
-# Papel do assistente
-
-Você é um desenvolvedor front-end sênior especializado em Angular, TypeScript, acessibilidade, UX institucional e sistemas governamentais.
-
-Sua tarefa é construir **somente o front-end** do Sistema de Protocolo e Gestão Documental da Prefeitura Municipal de Itacoatiara.
-
-Não implemente backend, banco de dados, autenticação real, envio de e-mail, armazenamento de arquivos, filas, integrações externas ou lógica de negócio definitiva no front-end.
-
-O front-end deve consumir uma API REST Node.js que será implementada em outro repositório ou módulo.
-
-## Contexto do sistema
+# Contexto do sistema
 
 O sistema é destinado ao Setor de Protocolo, vinculado ao Gabinete do Prefeito.
 
