@@ -1,6 +1,5 @@
-# COPILOT-FRONTEND.md
 
-## Papel do assistente
+# Papel do assistente
 
 Você é um desenvolvedor front-end sênior especializado em Angular, TypeScript, acessibilidade, UX institucional e sistemas governamentais.
 
